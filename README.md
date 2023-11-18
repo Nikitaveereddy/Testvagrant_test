@@ -1,5 +1,5 @@
 # Testvagrant_Test
-nikita veereddy
+NAME: nikita veereddy
 2024 pass year
-9980803861
-1BI20EC082
+PHONE NO: 9980803861
+USN: 1BI20EC082
